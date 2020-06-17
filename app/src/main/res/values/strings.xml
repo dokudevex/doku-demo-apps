@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">doku-demo-apps</string>
+    <string name="title_menu_va">Transfer Virtual Account</string>
+    <string name="bank_mandiri">Mandiri</string>
+    <string name="bank_mandiri_syariah">Mandiri Syariah</string>
+    <string name="order_id">Order ID</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="emoney">E-Money</string>
+    <string name="virtual_account">Transfer Virtual Account</string>
+    <string name="bank">Bank</string>
+    <string name="convenience_store">Convenience Store</string>
+    <string name="internet_banking">Internet Banking</string>
+    <string name="personal_finance">Personal Financing</string>
+</resources>
