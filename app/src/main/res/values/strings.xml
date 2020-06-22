@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">doku-demo-apps</string>
+    <string name="app_name">DokuPaySdk</string>
     <string name="title_menu_va">Transfer Virtual Account</string>
     <string name="bank_mandiri">Mandiri</string>
     <string name="bank_mandiri_syariah">Mandiri Syariah</string>

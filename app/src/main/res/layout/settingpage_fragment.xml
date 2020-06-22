@@ -26,6 +26,12 @@
 
 
         <EditText
+            android:id="@+id/edittext_settingpage_merchantname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Input Merchant Name" />
+
+        <EditText
             android:id="@+id/edittext_settingpage_clientid"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
